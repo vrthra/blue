@@ -10,7 +10,7 @@ set background=dark
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "blufox"
+let g:colors_name = "blue"
 hi Normal		  ctermfg=gray guifg=DarkGray  guibg=black
 hi Scrollbar	  guifg=black guibg=gray
 hi Menu			  guifg=black guibg=gray
